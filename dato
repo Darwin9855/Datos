@@ -1,4 +1,4 @@
-echo "# Datos" >> README.md
+echo "# Datos" >> README.csv
 git init
 git add README.md
 git commit -m "first commit"
